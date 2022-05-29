@@ -5,5 +5,6 @@ Python libraries  Pandas , Matplotlib , Seaborn, Sklearn libraries were used to 
 
 Principal Compoenent Analysis of  Sklearn Library to explore Iris dataset .
 
-Data Visualization using Tableau on Fake News Detection (https://public.tableau.com/views/FakeNewsAnalysis/FakeNewsAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Data Visualization using Tableau on BigMart Dataset
 
+https://public.tableau.com/views/BigSmartDataAnalysis/BigSmartDataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
